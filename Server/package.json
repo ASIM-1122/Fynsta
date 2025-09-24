@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is the Social Media App, here you can upload you pics, real and also can chat eith others.",
+  "keywords": [
+    "Social",
+    "app",
+    "Fynsta",
+    "Real",
+    "time",
+    "app"
+  ],
+  "license": "ISC",
+  "author": "Asim Nazir",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "config": "^4.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7"
+  }
+}
